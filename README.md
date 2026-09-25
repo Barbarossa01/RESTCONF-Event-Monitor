@@ -112,4 +112,12 @@ event["event-identity"]
 
 This project was created as a practical Python example for working with RESTCONF APIs and network event data.
 
-It focuses on authentication, HTTP requests, JSON parsing, and processing structured network events.
+It focuses on:
+* API authentication
+* HTTP requests
+* JSON parsing
+* RESTCONF communication
+* Processing structured network events
+* Filtering events by severity
+
+
